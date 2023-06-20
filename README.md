@@ -2,7 +2,7 @@
 - 👀 Computer Engineer
 - 📍 Qatar - Egypt
 - 🌱 Motivation - Success - Positivity
-- 🔥 Robotics - Machine Learning - Space Applications
+- 🔥 Signal Processing - Robotics - Machine Learning - Space Applications
 - 😎 Football - Skating
 - 😉 Fun Fact: "There are two ways to write error-free programs; only the third one works"
 - 😆 Future Goal: "To continue to Learn"
