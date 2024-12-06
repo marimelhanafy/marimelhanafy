@@ -1,8 +1,8 @@
 - 👋 Marim Elhanafy
-- 👀 Computer Engineer
-- 📍 Qatar - Egypt
+- 👀 Electrical Engineer
+- 📍 USA - Qatar - Egypt
 - 🌱 Motivation - Success - Positivity
-- 🔥 Signal Processing - Robotics - Machine Learning - Space Applications
+- 🔥 Signal Processing - Embedded Systems - Machine Learning - Autonomous Vehicles and Space Applications
 - 😎 Skating - Reading
 - 😉 Fun Fact: "There are two ways to write error-free programs; only the third one works"
 - 😆 Future Goal: "To continue to Learn"
