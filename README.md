@@ -1,5 +1,5 @@
 - 👋 Marim Elhanafy
-- 👀 Electrical Engineer
+- 👀 Master's Student | Electrical Engineering
 - 📍 USA - Qatar - Egypt
 - 🌱 Motivation - Success - Positivity
 - 🔥 Signal Processing - Embedded Systems - Machine Learning - Autonomous Vehicles and Space Applications
