@@ -2,7 +2,7 @@
 - 👀 MS. in Electrical and Computer Engineering
 - 📍 USA - Qatar - Egypt
 - 🌱 Motivation - Success - Positivity
-- 🔥 Controls Engineering - Embedded Systems - Machine Learning - Autonomous Vehicles and Space Applications
+- 🔥 Automation and Controls Engineering - Embedded Systems - Machine Learning - Space Applications
 - 😎 Skating - Reading
 - 😉 Fun Fact: "There are two ways to write error-free programs; only the third one works"
 - 😆 Future Goal: "To continue to Learn"
