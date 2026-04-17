@@ -1,8 +1,8 @@
 - 👋 Marim Elhanafy
-- 👀 Master's Student | Electrical Engineering
+- 👀 MS. in Electrical and Computer Engineering
 - 📍 USA - Qatar - Egypt
 - 🌱 Motivation - Success - Positivity
-- 🔥 Signal Processing - Embedded Systems - Machine Learning - Autonomous Vehicles and Space Applications
+- 🔥 Controls Engineering - Embedded Systems - Machine Learning - Autonomous Vehicles and Space Applications
 - 😎 Skating - Reading
 - 😉 Fun Fact: "There are two ways to write error-free programs; only the third one works"
 - 😆 Future Goal: "To continue to Learn"
